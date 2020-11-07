@@ -27,7 +27,7 @@ Description:
  Note that the credentials entered are not stored to disk.
 
 Example:
-python update_firmware_using_catalog_3.0.py --ip <ip addr> --user admin
+python update_firmware_using_catalog.py --ip <ip addr> --user admin
     --password <passwd> --groupid 25315
 """
 
